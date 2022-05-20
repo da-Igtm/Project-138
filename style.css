@@ -1,0 +1,12 @@
+#press{
+    box-shadow: 9px 8px 14px steelblue;
+}
+#heading{
+    width: 100%;
+}
+#heading_title{
+    float: left;
+}
+#instructions{
+    float: right;
+}
